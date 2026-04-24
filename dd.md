@@ -62,27 +62,7 @@
 
 **5. 왁스 작업 당일 순서**
 
-
-mermaid
-
-```
-graph TD
-    STEP1["<b>1. 세제 복도에 뿌리기</b>"] --> STEP2["<b>2. 전기 진동 청소기 작업</b>"]
-    STEP2 --> STEP3["<b>3. 바닥 물기 밀대 작업</b>"]
-    STEP3 --> STEP4["<b>4. 청소차 물기 제거</b>"]
-    STEP4 --> STEP5["<b>5. 마포 걸레로 바닥 물기 마무리</b>"]
-    STEP5 --> STEP6["<b>6. 30분 이후(간식 타임) 왁스 작업</b>"]
-    
-    STEP6 --> STEP7["<b>7. 작업 종료 후 정리</b><br/><small>- 엘리베이터 홀 덮개 수거<br/>- 엘리베이터 내 박스 수거</small>"]
-    
-    STEP7 --> STEP8["<b>8. 집기류 제자리 이동</b><br/><small>- 탁자, 소화기 등 각 층 제자리 이동</small>"]
-    
-    STEP8 --> STEP9["<b>9. 작업 도구 정리 및 비치</b><br/><small>- 덮개, 물통, 조리개, 바가지 등<br/>- 비닐 포장하여 보관</small>"]
-
-    style STEP1 fill:#f9f,stroke:#333,stroke-width:2px
-    style STEP6 fill:#bbf,stroke:#333,stroke-width:2px
-    style STEP9 fill:#dfd,stroke:#333,stroke-width:2px
-```
+<img width="1566" height="982" alt="image" src="https://github.com/user-attachments/assets/2227e299-8c16-4ea6-a3cc-49bb8526ad03" />
 
 
 **■ 소요 예산 : 1,400천원**
