@@ -65,7 +65,7 @@
 
 #### 5. 왁스 작업 당일 순서
 
-<img width="1566" height="982" alt="image" src="https://github.com/user-attachments/assets/2227e299-8c16-4ea6-a3cc-49bb8526ad03" />
+<img width="1595" height="1022" alt="image" src="https://github.com/user-attachments/assets/61b1cf6a-2de3-48c0-b5fb-50592d4711f1" />
 
 <br>
 
