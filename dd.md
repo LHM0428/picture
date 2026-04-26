@@ -16,7 +16,7 @@
 ### ■ 대상
 
 -   **건물 공용부문**  (복도, 엘리베이터 홀)
--   _세부구역: 복도, 엘리베이터 홀, 화물용 승강기 및 비상 엘리베이터 공간_
+-   _세부구역: 복도, 엘리베이터 앞 공간, 화물용 승강기 및 비상 엘리베이터 공간_
 <br>
 
 ### ■ 인원
@@ -65,7 +65,7 @@
 
 #### 5. 왁스 작업 당일 순서
 
-<img width="1595" height="1022" alt="image" src="https://github.com/user-attachments/assets/61b1cf6a-2de3-48c0-b5fb-50592d4711f1" />
+<img width="1435" height="920" alt="image" src="https://github.com/user-attachments/assets/61b1cf6a-2de3-48c0-b5fb-50592d4711f1" />
 
 <br>
 
