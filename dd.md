@@ -65,9 +65,8 @@
 
 #### 5. 왁스 작업 당일 순서
 
-<img width="1435" height="920" alt="image" src="https://github.com/user-attachments/assets/61b1cf6a-2de3-48c0-b5fb-50592d4711f1" />
+<img width="1335" height="870" alt="image" src="https://github.com/user-attachments/assets/61b1cf6a-2de3-48c0-b5fb-50592d4711f1" />
 
-<br>
 
 ### ■ 소요 예산 : 1,400천원
 
